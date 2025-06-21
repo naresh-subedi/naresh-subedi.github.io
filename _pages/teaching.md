@@ -5,8 +5,14 @@ title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
+
+
+
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Before coming to Japan for graduate studies, I served as a Lecturer in the Department of Civil Engineering at Cosmos College of Management and Technology, Kathmandu, from November 2016 to August 2017. 
 
-Organize your courses by years, topics, or universities, however you like!
+During this role, I was responsible for delivering the **Theory** and **Tutorial** classes of the following subjects for two classes of about 40 students each:
+
+- **Applied Mechanics I (Statics)**
+- **Applied Mechanics II (Dynamics)**
