@@ -32,14 +32,14 @@
       institution: Tokyo Institute of Technology, Japan.
       year: Sept. 2022
       description:
-        - Dissertation: *Structural behavior of cast-in-place concrete-filled steel tube piles*.
-        - Advisor: Prof. Susumu (Sam) Kono & Assoc. Prof. Anil C. Wijeyewickrema
+        - "Dissertation: *Structural behavior of cast-in-place concrete-filled steel tube piles*."
+        - "Advisors: Prof. Susumu (Sam) Kono & Assoc. Prof. Anil C. Wijeyewickrema"
     - title: M.Eng. in Civil (Structural) Engineering
       institution: Tokyo Institute of Technology, Japan.
       year: Sept. 2019
       description:
-        - Thesis: *Lateral Load analysis and influence of ground motion duration on seismic performance of rocking wall-frame buildings*.
-        - Advisor: Assoc. Prof. Anil C. Wijeyewickrema
+        - "Thesis: *Lateral Load analysis and influence of ground motion duration on seismic performance of rocking wall-frame buildings*."
+        - "Advisor: Assoc. Prof. Anil C. Wijeyewickrema"
     - title: B.Eng. in Civil Engineering
       institution: Institute of Engineering, Pulchowk Campus, Tribhuvan University, Nepal.
       year: Nov. 2016
@@ -47,10 +47,31 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Excellent presentation award
+      year: Dec. 21, 2022
+      description:
+        - MSL Young Researchers Presentation 2022, Institute of Innovative Research, Tokyo Institute of Technology, Japan.
+        - "Paper title: *Concrete-filled Steel Tube Piles: Flexural Behavior and Design*."
+    - title: Excellent presentation award
+      year: Sept. 6, 2021
+      description:
+        - "10th edition of *Creating the Future 20 Years from Now* [Nagoya Institute of Technology, Osaka University, Tokyo Institute of Technology, Tohoku University]."
+        - "Paper title: *Concrete-filled Steel Tube Piles: Flexural Behavior and Design*."
+    - title: Monbukagakusho scholarship
+      year: Oct. 2019 - Sept. 2022
+      description:
+        - "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan (for *Ph.D.*})."
+    - title: Excellent presentation award
+      year: Aug. 8, 2018
+      description:
+        - "Tenth Multidisciplinary International Student Workshop (MISW 2018), Tokyo Institute of Technology, Japan."
+        - "Paper title: *Performance of RC buildings with masonry infill walls during the 2015 Gorkha, Nepal Earthquake*."
+    - title: Monbukagakusho scholarship
+      year: Oct. 2017 - Sept. 2019
+      description:
+        - "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan (for *M.Eng.*})."
+    - title: Shiva Raj Pant Smriti Award (Gold Medal)
+      year: Dec. 31, 2017
+      description:
+        - Institute of Engineering, Tribhuvan University, Nepal.
+    
