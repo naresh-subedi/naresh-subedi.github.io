@@ -83,27 +83,6 @@ div.container-links {
 }
 
 /*****************************
- * Quick Year Column Width Fix
- *****************************/
-.cv .time-table {
-  .col-xs-2 {
-    min-width: 140px !important;
-    flex: 0 0 140px !important;
-  }
-  
-  .col-xs-10 {
-    flex: 1 !important;
-    min-width: 0 !important;
-  }
-  
-  .row {
-    display: flex !important;
-    align-items: flex-start !important;
-    margin-bottom: 1rem !important;
-  }
-}
-
-/*****************************
  * CV MAP styles
  *****************************/
 
